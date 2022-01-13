@@ -1,4 +1,4 @@
-git clone https://github.com/MAIELMELIGY/bit68-task/
+git clone https://github.com/MAIELMELIGY/bit68-task.git
 virtualenv env 
 source env/Scripts/activate
 pip install -r requirements.txt
